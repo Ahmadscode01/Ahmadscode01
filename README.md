@@ -14,26 +14,24 @@ I’m a **Frontend Developer** passionate about building user-friendly, visually
 ---
 
 ### Connect with me:
-- [GitHub](https://github.com/Ahmadscode01) ![GitHub](https://img.icons8.com/ios/50/000000/github.png)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-raza-soomro-0128673) ![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)
-- [Instagram](https://www.instagram.com/itx_mars/profilecard/?igsh=a2sxcjllNTMzemJp) ![Instagram](https://img.icons8.com/ios/50/000000/instagram.png)
-- [YouTube](https://www.youtube.com/@AhmedRaza_Tech) ![YouTube](https://img.icons8.com/ios/50/000000/youtube-play.png)
+- [GitHub](https://github.com/Ahmadscode01) ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-raza-soomro-0128673) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)
+- [Instagram](https://www.instagram.com/itx_mars/profilecard/?igsh=a2sxcjllNTMzemJp) ![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)
+- [YouTube](https://www.youtube.com/@AhmedRaza_Tech) ![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)
 
 ---
 
 ### Skills & Tools:
 - **Frontend**: 
-    - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
-    - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
-    - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-    - ![React](https://img.icons8.com/ios/50/000000/react-native.png) React
-    - ![Bootstrap](https://img.icons8.com/ios/50/000000/bootstrap.png) Bootstrap
+    - ![HTML5](https://upload.wikimedia.org/wikipedia/commons/a/a2/HTML5_logo_and_wordmark.svg) HTML
+    - ![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) CSS
+    - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
+    - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
+    - ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap-Logo.svg) Bootstrap
 
 ---
 
 - **Version Control**: 
-    - ![Git](https://img.icons8.com/ios/50/000000/git.png) Git
-    - ![GitHub](https://img.icons8.com/ios/50/000000/github-2.png) GitHub
-
-
+    - ![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg) Git
+    - ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) GitHub
 
