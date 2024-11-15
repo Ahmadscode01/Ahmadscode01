@@ -13,25 +13,27 @@ I’m a **Frontend Developer** passionate about building user-friendly, visually
 
 ---
 
+
 ### Connect with me:
-- [GitHub](https://github.com/Ahmadscode01) ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-raza-soomro-0128673) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)
-- [Instagram](https://www.instagram.com/itx_mars/profilecard/?igsh=a2sxcjllNTMzemJp) ![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)
-- [YouTube](https://www.youtube.com/@AhmedRaza_Tech) ![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)
+- [GitHub](https://github.com/Ahmadscode01)  
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-raza-soomro-0128673)  
+- [Instagram](https://www.instagram.com/itx_mars/profilecard/?igsh=a2sxcjllNTMzemJp)  
+- [YouTube](https://www.youtube.com/@AhmedRaza_Tech)  
 
 ---
 
 ### Skills & Tools:
-- **Frontend**: 
-    - ![HTML5](https://upload.wikimedia.org/wikipedia/commons/a/a2/HTML5_logo_and_wordmark.svg) HTML
-    - ![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) CSS
-    - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
-    - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
-    - ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap-Logo.svg) Bootstrap
+- **Frontend**:  
+    - HTML  
+    - CSS  
+    - JavaScript  
+    - React  
+    - Bootstrap  
+
+- **Version Control**:  
+    - Git  
+    - GitHub  
 
 ---
 
-- **Version Control**: 
-    - ![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg) Git
-    - ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) GitHub
 
