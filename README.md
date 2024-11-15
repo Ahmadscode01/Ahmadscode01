@@ -12,6 +12,7 @@ I’m a **Frontend Developer** passionate about building user-friendly, visually
 ⚡ Fun fact: I love exploring new technologies and finding creative solutions to challenges!
 
 ---
+
 ### Connect with me:
 - [GitHub](https://github.com/Ahmadscode01) ![GitHub](https://img.icons8.com/ios/50/000000/github.png)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-raza-soomro-0128673) ![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)
@@ -22,12 +23,17 @@ I’m a **Frontend Developer** passionate about building user-friendly, visually
 
 ### Skills & Tools:
 - **Frontend**: 
-    - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML 
+    - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
     - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
     - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-    - ![React](https://img.icons8.com/ios/50/000000/react.png) React
+    - ![React](https://img.icons8.com/ios/50/000000/react-native.png) React
     - ![Bootstrap](https://img.icons8.com/ios/50/000000/bootstrap.png) Bootstrap
+
+---
+
 - **Version Control**: 
     - ![Git](https://img.icons8.com/ios/50/000000/git.png) Git
-    - ![GitHub](https://img.icons8.com/ios/50/000000/github.png) GitHub
+    - ![GitHub](https://img.icons8.com/ios/50/000000/github-2.png) GitHub
+
+
 
