@@ -3,7 +3,7 @@ I’m a **Frontend Developer** passionate about building user-friendly, visually
 
 🌱 I’m currently learning **JavaScript frameworks**, **React**, **Bootstrap**, and **web performance optimization**. 
 
-💬 Feel free to ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **responsive web design**
+💬 Feel free to ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **responsive web design**.
 
 📫 Reach out to me at: **m.ahmad786raza@gmail.com**  
 
