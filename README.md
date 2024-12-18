@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Muhammad Ahmed Raza  
 I’m a **Frontend Developer** passionate about building user-friendly, visually appealing websites and applications. I focus on creating seamless, responsive designs and ensuring the best possible user experience.  
 
-🌱 I’m currently learning **JavaScript frameworks**, **React**, **Bootstrap**, and **web performance optimization**. 
+🌱 I’m currently learning **JavaScript frameworks**, **React**, **Bootstrap**,**Tailwind CSS** and **web performance optimization**. 
 
 💬 Feel free to ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **responsive web design**.
 
@@ -28,7 +28,8 @@ I’m a **Frontend Developer** passionate about building user-friendly, visually
     - CSS  
     - JavaScript  
     - React  
-    - Bootstrap  
+    - Bootstrap
+    - Tailwind CSS
 
 - **Version Control**:  
     - Git  
