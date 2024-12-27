@@ -5,7 +5,7 @@ I’m a **Frontend Developer** passionate about building user-friendly, visually
 
 💬 Feel free to ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **responsive web design**.
 
-📫 Reach out to me at: **m.ahmad786raza@gmail.com**  
+📫 Reach out to me at: **m.ahmad786raza@gmail.com**. 
 
 😄 Pronouns: He/Him
 
